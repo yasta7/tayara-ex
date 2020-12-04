@@ -1,0 +1,23 @@
+
+
+.categories{
+
+}
+.categories>a{
+    margin-top: 15px;
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+.espace{
+    margin-right: 7px;
+}
+.footer{
+    background-color: #e6e6e6;
+}
+.footer>a{
+    margin-left:60px;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+}
